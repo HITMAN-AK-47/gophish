@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ansible-playbook\\roles",
+    "\\controllers",
+    "\\templates"
   ],
-  "SelectedNode": "\\C:\\Users\\KagisoStephen\\Source\\Repos\\gophish",
+  "SelectedNode": "\\templates\\404.html",
   "PreviewInSolutionExplorer": false
 }
